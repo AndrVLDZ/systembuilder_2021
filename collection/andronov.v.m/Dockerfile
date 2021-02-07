@@ -1,3 +1,3 @@
 FROM centos:latest
 
-RUN echo 'Hello world!'
+RUN echo 'Hello world! ( ͡° ͜ʖ ͡°)'
